@@ -115,13 +115,13 @@ Baixe o repositório (botão *Code > Download ZIP* no GitHub e descompacte), ou
 clone via terminal:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/eneas-ena/desafio-automacao-pecas.git
 ```
 
 **2. Entre na pasta do projeto**
 
 ```bash
-cd SEU-REPOSITORIO
+cd desafio-automacao-pecas
 ```
 
 **3. Execute**
